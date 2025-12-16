@@ -33,7 +33,7 @@ Displays real-time updates on platform changes, facility closures, crowd density
 
 ## Proposed Solution / Architecture Diagram
 
-(Diagram Required)
+
 
 User Mobile App / Kiosk Interface
 
@@ -50,7 +50,7 @@ Accessibility & Voice Assistant Module
 
 ## Use Cases
 
-(Diagram Required)
+
 
 Passenger searches for platform
 
